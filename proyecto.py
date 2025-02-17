@@ -9,7 +9,7 @@ from datetime import datetime
 #1. Configuración inical de la aplicacion
 
 st.set_page_config(
-  page_title = "Dashboard Interactivo",
+  page_title = "🖥️Dashboard Interactivo",
   page_icon = " "
 )
 st.title("📊Dashboard interactivo con Streamlit")
