@@ -12,5 +12,5 @@ st.set_page_config(
   page_title = "Dashboard Interactivo",
   page_icon = " "
 )
-st.title("Dashboard interactivo con Streamlit")
-st.sidebar.title("📊Opciones de  navegación") 
+st.title("📊Dashboard interactivo con Streamlit")
+st.sidebar.title("Opciones de  navegación") 
