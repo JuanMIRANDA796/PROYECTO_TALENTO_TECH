@@ -13,4 +13,4 @@ st.set_page_config(
   page_icon = " "
 )
 st.title("Dashboard interactivo con Streamlit")
-st.sidebar.title(" Opciones de  navegación") 
+st.sidebar.title("📊Opciones de  navegación") 
